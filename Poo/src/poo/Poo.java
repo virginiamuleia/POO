@@ -4,6 +4,8 @@
  */
 package poo;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author mariasartori
@@ -15,7 +17,8 @@ public class Poo {
      */
    public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("ferwthgfdssgfdsfsghttretjffgf");
+        System.out.println("Que comece o trabalho semestral");
+        //
     }
     
 }
